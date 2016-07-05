@@ -1,0 +1,28 @@
+#NAME "Country Capital Dictionary [en-en]"
+#INDEX_LANGUAGE "English"
+#CONTENTS_LANGUAGE "English"
+
+Afghanistan
+      [m1][trn]Kabul[/trn][/m1]
+Albania
+      [m1][trn]Tirane[/trn][/m1]
+
+
+
+
+[b],[/b] - boldfaced font
+[i ],[/i] - italics
+[u],[/u] - underlined font
+[c],[/c] - coloured (highlighted) font
+[mN],[/m]- the left paragraph margin. N is the number of spaces(0-9).
+[s],[/s] - multimedia zone (used to add pictures or sound files into a dictionary entries ).
+[url],[/url] - link to a Web page.
+[p],[/p] - labels (clicking a label displays its full text)
+[ref],[/ref]- hyperlink to a card in the same dictionary (or <<, >>)
+[sub][/sub] - subscript
+[sup][/sup] -  superscript
+['],[/'] - a stressed vowel in a word.
+[ex], [/ex] - examples zone.
+
+
+http://goldendict.org/forum/viewtopic.php?f=5&t=751
